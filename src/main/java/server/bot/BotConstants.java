@@ -3,7 +3,7 @@ package server.bot;
 public final class BotConstants {
     private BotConstants() {}
 
-    public static final String DISCORD_TOKEN = "MTMwOTI3Mzc3MzAwMTkzNjk5Nw.GM-zYm.yV_0Vm37ainry3omybZVM3SZo6r-1vp7rWfhAo";
+    public static final String DISCORD_TOKEN = "";
     public static final String ACTIVITY_TEXT = "x3on.xyz";
 
     public static final String[] ALLOWED_ROLE_IDS = {
